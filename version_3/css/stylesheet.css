@@ -74,9 +74,10 @@ body {
   clear: both; }
 
 #content2 {
-  width: 600px;
+  width: 575px;
   float: left;
-  clear: both; }
+  clear: both;
+  padding-right: 10px; }
 
 #sidebar {
   margin-top: 30px;
@@ -167,3 +168,8 @@ a {
     color: #00d6ef; }
   a :hover {
     color: #02b1c6; }
+
+/*===============LISTS===================*/
+ul {
+  color: #464646;
+  line-height: 1.5em; }

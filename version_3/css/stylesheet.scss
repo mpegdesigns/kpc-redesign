@@ -113,9 +113,10 @@ clear: both;
 #content2
 {
 //margin-top: 20px;
-width: 600px;
+width: 575px;
 float: left;
 clear: both;
+padding-right: 10px;
 }
 
 #sidebar
@@ -129,6 +130,11 @@ float: left;
 	{
 	padding-left: 10px;
 	}
+    
+    u 
+    {
+//     color: #02b1c6;   
+    }
 
 }
 
@@ -275,5 +281,11 @@ color: #00d6ef;
 	}
 }
 
+/*===============LISTS===================*/
 
+ul
+{
+ color: #464646;
+ line-height: 1.5em;
+}    
 
