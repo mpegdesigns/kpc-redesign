@@ -42,9 +42,10 @@ height: auto;
 
 	h1
 	{
-	font-size: 5em;
+	font-size: 3.7em;
 	text-align: center;
 	font-weight: bold;
+    line-height: 1.8em;
 	}
 	
 	h2
@@ -130,6 +131,11 @@ float: left;
 	{
 	padding-left: 10px;
 	}
+    
+    h3
+    {
+        padding-left: 10px;
+    }
     
     u 
     {
