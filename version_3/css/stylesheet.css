@@ -159,6 +159,11 @@ h1 {
 h4 {
   font-size: 1.3em; }
 
+h5 {
+  font-size: 1.2em;
+  color: #02b1c6;
+  margin-bottom: 2px; }
+
 p {
   color: #464646;
   line-height: 1.5em; }
@@ -167,12 +172,24 @@ p {
 a {
   text-decoration: none;
   color: #00d6ef; }
-  a:visited {
+  a :visited {
     color: #00d6ef; }
-  a:hover {
+  a :hover {
     color: #02b1c6; }
 
 /*===============LISTS===================*/
 ul {
   color: #464646;
   line-height: 1.5em; }
+
+/*=============TABLES=============*/
+table {
+  color: #464646; }
+  table th {
+    color: #02b1c6;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 2px solid #02b1c6; }
+  table td {
+    padding: 15px;
+    text-align: center; }
